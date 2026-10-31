@@ -1,0 +1,25 @@
+build/
+signing/
+test-deps/
+tools/
+release-assets/
+publish-manifest.json
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.apk
+*.idsig
+*.log
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+local.properties
+__pycache__/
+# Local investigation notes are not public documentation.
+사용방법.txt
+개발-검증기록.txt

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Frame Photo Transfer</title>
+  <desc id="desc">A phone sends photos over local Wi-Fi to a digital photo frame. Project illustration, not an app screenshot.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102f36"/><stop offset="1" stop-color="#1b6662"/></linearGradient><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#cde9df"/><stop offset="1" stop-color="#eef4dd"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1110" cy="26" r="220" fill="#fff" opacity=".03"/>
+  <circle cx="700" cy="360" r="220" fill="#fff" opacity=".03"/>
+  <text x="58" y="83" fill="#bce3d7" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">LOCAL WI-FI · ANDROID · OPEN SOURCE</text>
+  <text x="56" y="151" fill="#fff" font-family="Arial,sans-serif" font-size="44" font-weight="700">Your photos.</text>
+  <text x="56" y="208" fill="#fff" font-family="Arial,sans-serif" font-size="44" font-weight="700">Your frame.</text>
+  <text x="59" y="261" fill="#d9eee6" font-family="Arial,sans-serif" font-size="19">Smart Frame Photo Transfer</text>
+  <rect x="59" y="291" width="87" height="28" rx="14" fill="#ffffff" opacity=".12"/>
+  <text x="75" y="310" fill="#fff" font-family="Arial,sans-serif" font-size="13">KO / EN</text>
+  <g transform="translate(590 91)">
+    <rect width="100" height="185" rx="17" fill="#e8eee8"/>
+    <rect x="8" y="17" width="84" height="149" rx="7" fill="#fff"/>
+    <rect x="35" y="7" width="30" height="4" rx="2" fill="#64817b"/>
+    <rect x="17" y="31" width="66" height="65" rx="5" fill="#dcece4"/>
+    <circle cx="65" cy="48" r="9" fill="#e5b969"/>
+    <path d="M17 90 L41 61 L58 80 L69 67 L83 86 V96 H17Z" fill="#6b9b89"/>
+    <rect x="17" y="109" width="52" height="5" rx="2" fill="#b8ccc2"/>
+    <rect x="17" y="120" width="39" height="5" rx="2" fill="#d6e1d9"/>
+    <rect x="17" y="139" width="66" height="17" rx="7" fill="#226b61"/>
+  </g>
+  <path d="M714 183 H773 M763 174 L773 183 L763 192" fill="none" stroke="#bce3d7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(797 78)">
+    <rect width="329" height="215" rx="10" fill="#f1eee5"/>
+    <rect x="17" y="17" width="295" height="181" rx="3" fill="url(#sky)"/>
+    <circle cx="251" cy="63" r="24" fill="#ebc57b"/>
+    <path d="M17 166 L109 64 L180 145 L223 101 L312 178 V198 H17Z" fill="#86b09e"/>
+    <path d="M17 188 L98 129 L167 172 L249 130 L312 181 V198 H17Z" fill="#407f72"/>
+    <path d="M148 215 H181 L193 233 H136Z" fill="#bad0c5"/>
+  </g>
+</svg>
